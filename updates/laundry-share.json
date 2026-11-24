@@ -1,14 +1,14 @@
 {
-  "versionCode": 2,
-  "versionName": "0.1.1",
-  "apk": "https://github.com/by-jsk/app-downloads/releases/download/laundry-share-v0.1.1/LaundryShare-v0.1.1.apk",
-  "notes": "Share your laundry condition and possible dye transfer. Review both before joining, and choose what laundry condition you are willing to share with.",
+  "versionCode": 3,
+  "versionName": "0.1.2",
+  "apk": "https://github.com/by-jsk/app-downloads/releases/download/laundry-share-v0.1.2/LaundryShare-v0.1.2.apk",
+  "notes": "Hosts and applicants can review both sets of laundry disclosures. A share becomes confirmed only when both people approve.",
   "notesByLanguage": {
-    "ko": "빨래 오염도와 이염 가능성을 서로 알릴 수 있어. 모집자는 참여자 빨래의 허용 범위를 정할 수 있어.",
-    "en": "Share your laundry condition and possible dye transfer. Review both before joining, and choose what laundry condition you are willing to share with.",
-    "ja": "洗濯物の汚れ具合と色移りの可能性を共有できます。募集側は受け入れる洗濯物の状態を選べます。",
-    "zh": "可以互相告知衣物的脏污程度和串色风险，发起人也可以设置可接受的脏污程度。",
-    "es": "Indica el estado de la ropa y el riesgo de desteñido. Quien publica puede definir el estado que acepta.",
-    "ru": "Укажи степень загрязнения белья и риск окрашивания. Организатор может выбрать допустимое состояние белья."
+    "ko": "모집자와 신청자가 서로의 오염도와 이염 가능성을 확인하고, 두 사람 모두 동의하면 약속이 확정돼.",
+    "en": "Hosts and applicants can review both sets of laundry disclosures. A share becomes confirmed only when both people approve.",
+    "ja": "募集者と申込者は互いの洗濯物の汚れや色移りの可能性を確認できます。双方の同意後に確定します。",
+    "zh": "发起人和申请者可以互相查看衣物脏污与串色风险。双方同意后才会确认约定。",
+    "es": "Quien publica y quien solicita pueden revisar el estado de la ropa de ambos. La cita se confirma cuando ambos aceptan.",
+    "ru": "Организатор и участник видят состояние белья друг друга. Встреча подтверждается после согласия обоих."
   }
 }
