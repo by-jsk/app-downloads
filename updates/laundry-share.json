@@ -1,14 +1,14 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "apk": "https://github.com/by-jsk/app-downloads/releases/download/laundry-share-v0.1.0/LaundryShare-v0.1.0.apk",
-  "notes": "Browse registered laundromats on the map, split machine capacity and fees, and review arrival times and confirmed attendance records.",
+  "versionCode": 2,
+  "versionName": "0.1.1",
+  "apk": "https://github.com/by-jsk/app-downloads/releases/download/laundry-share-v0.1.1/LaundryShare-v0.1.1.apk",
+  "notes": "Share your laundry condition and possible dye transfer. Review both before joining, and choose what laundry condition you are willing to share with.",
   "notesByLanguage": {
-    "ko": "지도에서 세탁방을 골라 용량·이용료·도착 시간을 확인하고, 서로 확인한 매너 기록을 볼 수 있어.",
-    "en": "Browse registered laundromats on the map, split machine capacity and fees, and review arrival times and confirmed attendance records.",
-    "ja": "地図でコインランドリーを選び、容量・料金・到着時刻と、確認済みの出席記録を確認できます。",
-    "zh": "在地图上选择洗衣店，查看容量、费用分摊、到达时间和已确认的赴约记录。",
-    "es": "Elige una lavandería en el mapa y consulta la capacidad, el coste, la hora de llegada y la asistencia confirmada.",
-    "ru": "Выбирай прачечную на карте, проверяй объём, долю оплаты, время прибытия и подтверждённые встречи."
+    "ko": "빨래 오염도와 이염 가능성을 서로 알릴 수 있어. 모집자는 참여자 빨래의 허용 범위를 정할 수 있어.",
+    "en": "Share your laundry condition and possible dye transfer. Review both before joining, and choose what laundry condition you are willing to share with.",
+    "ja": "洗濯物の汚れ具合と色移りの可能性を共有できます。募集側は受け入れる洗濯物の状態を選べます。",
+    "zh": "可以互相告知衣物的脏污程度和串色风险，发起人也可以设置可接受的脏污程度。",
+    "es": "Indica el estado de la ropa y el riesgo de desteñido. Quien publica puede definir el estado que acepta.",
+    "ru": "Укажи степень загрязнения белья и риск окрашивания. Организатор может выбрать допустимое состояние белья."
   }
 }
