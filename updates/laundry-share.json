@@ -1,0 +1,14 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "apk": "https://github.com/by-jsk/app-downloads/releases/download/laundry-share-v0.1.0/LaundryShare-v0.1.0.apk",
+  "notes": "Browse registered laundromats on the map, split machine capacity and fees, and review arrival times and confirmed attendance records.",
+  "notesByLanguage": {
+    "ko": "지도에서 세탁방을 골라 용량·이용료·도착 시간을 확인하고, 서로 확인한 매너 기록을 볼 수 있어.",
+    "en": "Browse registered laundromats on the map, split machine capacity and fees, and review arrival times and confirmed attendance records.",
+    "ja": "地図でコインランドリーを選び、容量・料金・到着時刻と、確認済みの出席記録を確認できます。",
+    "zh": "在地图上选择洗衣店，查看容量、费用分摊、到达时间和已确认的赴约记录。",
+    "es": "Elige una lavandería en el mapa y consulta la capacidad, el coste, la hora de llegada y la asistencia confirmada.",
+    "ru": "Выбирай прачечную на карте, проверяй объём, долю оплаты, время прибытия и подтверждённые встречи."
+  }
+}
