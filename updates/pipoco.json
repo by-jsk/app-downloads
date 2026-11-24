@@ -1,14 +1,14 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4.0",
-  "apk": "https://github.com/by-jsk/app-downloads/releases/download/pipoco-v0.4.0/Pipoco-v0.4.0.apk",
-  "notes": "See your own outfit in the camera and use QR-free Mutual Pick and Public Pick with other Pipoco users nearby.",
+  "versionCode": 5,
+  "versionName": "0.4.1",
+  "apk": "https://github.com/by-jsk/app-downloads/releases/download/pipoco-v0.4.1/Pipoco-v0.4.1.apk",
+  "notes": "Items fit the detected face automatically. Resize with two fingers or the size buttons. Camera and saved photos use the updated artwork.",
   "notesByLanguage": {
-    "ko": "나 보기와 QR 없는 서로 픽·공개 픽을 사용할 수 있어.",
-    "en": "See your own outfit in the camera and use QR-free Mutual Pick and Public Pick with other Pipoco users nearby.",
-    "ja": "自分の着用アイテムを確認し、近くの人とQR不要のお互いにピック・公開ピックを使えます。",
-    "zh": "可查看自己的搭配，并与附近用户使用无需二维码的互相 Pick 和公开 Pick。",
-    "es": "Mira tus accesorios en la cámara y usa Pick mutuo o Pick público sin códigos QR con personas cercanas.",
-    "ru": "Смотри свои аксессуары в камере и используй взаимный или публичный Pick рядом без QR-кодов."
+    "ko": "선택한 아이템이 얼굴의 위치와 크기에 자동으로 맞춰져. 두 손가락이나 크기 버튼으로 조정할 수 있고 아이템 그림도 새로 그렸어.",
+    "en": "Items fit the detected face automatically. Resize with two fingers or the size buttons. Camera and saved photos use the updated artwork.",
+    "ja": "選んだアイテムが顔の位置と大きさに自動で合います。サイズは2本指またはボタンで調整できます。アイテムの見た目も新しくなりました。",
+    "zh": "所选道具会自动匹配人脸的位置和大小。可用双指或尺寸按钮调整，道具图案也已更新。",
+    "es": "Los accesorios se ajustan automáticamente a la cara. Cambia el tamaño con dos dedos o con los botones. Los accesorios tienen un diseño renovado.",
+    "ru": "Аксессуары автоматически подстраиваются под лицо. Меняй размер двумя пальцами или кнопками. Рисунки аксессуаров обновлены."
   }
 }
