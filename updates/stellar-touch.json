@@ -1,0 +1,13 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "apk": "https://github.com/by-jsk/app-downloads/releases/download/stellar-touch-v0.1.0/StellarTouch-v0.1.0.apk",
+  "notes": {
+    "ko": "Stellarium PC 엔진의 독립 Android 이식 시험판. 한글·6개 언어, 적색 야간 모드·밝기, 터치 검색·시간·위치, 필요할 때 플러그인 불러오기와 앱 내 업데이트.",
+    "en": "Independent Android preview of the Stellarium PC engine. Six languages, red night vision and brightness, touch search/time/location, on-demand plugins and in-app updates.",
+    "ja": "Stellarium PC エンジンの独立 Android 試用版。6 言語、赤色夜間表示と明るさ、タッチ検索・時刻・位置、必要時のプラグイン読み込み、アプリ内更新。",
+    "zh": "Stellarium PC 引擎的独立 Android 预览版。六种语言、红色夜间模式与亮度、触控搜索/时间/位置、按需加载插件及应用内更新。",
+    "es": "Vista previa independiente para Android del motor de Stellarium PC. Seis idiomas, modo nocturno rojo y brillo, búsqueda/hora/ubicación táctiles, complementos bajo demanda y actualizaciones integradas.",
+    "ru": "Независимая предварительная Android-версия движка Stellarium PC. Шесть языков, красный ночной режим и яркость, сенсорные поиск/время/место, плагины по запросу и обновления в приложении."
+  }
+}
