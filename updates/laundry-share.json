@@ -1,14 +1,14 @@
 {
-  "versionCode": 3,
-  "versionName": "0.1.2",
-  "apk": "https://github.com/by-jsk/app-downloads/releases/download/laundry-share-v0.1.2/LaundryShare-v0.1.2.apk",
-  "notes": "Hosts and applicants can review both sets of laundry disclosures. A share becomes confirmed only when both people approve.",
+  "versionCode": 4,
+  "versionName": "0.1.3",
+  "apk": "https://github.com/by-jsk/app-downloads/releases/download/laundry-share-v0.1.3/LaundryShare-v0.1.3.apk",
+  "notes": "The app now has an inbox and device notifications for new applications, host decisions, and confirmed shares.",
   "notesByLanguage": {
-    "ko": "모집자와 신청자가 서로의 오염도와 이염 가능성을 확인하고, 두 사람 모두 동의하면 약속이 확정돼.",
-    "en": "Hosts and applicants can review both sets of laundry disclosures. A share becomes confirmed only when both people approve.",
-    "ja": "募集者と申込者は互いの洗濯物の汚れや色移りの可能性を確認できます。双方の同意後に確定します。",
-    "zh": "发起人和申请者可以互相查看衣物脏污与串色风险。双方同意后才会确认约定。",
-    "es": "Quien publica y quien solicita pueden revisar el estado de la ropa de ambos. La cita se confirma cuando ambos aceptan.",
-    "ru": "Организатор и участник видят состояние белья друг друга. Встреча подтверждается после согласия обоих."
+    "ko": "신청 접수와 모집자의 동의·거절, 두 사람의 약속 확정을 앱 알림함과 기기 알림에서 확인할 수 있어.",
+    "en": "The app now has an inbox and device notifications for new applications, host decisions, and confirmed shares.",
+    "ja": "新しい申請、募集者の回答、約束の確定をアプリ内と端末の通知で確認できます。",
+    "zh": "现在可通过应用内通知和设备通知查看新申请、发起人的答复及约定确认。",
+    "es": "Consulta las nuevas solicitudes, las decisiones y las citas confirmadas en la bandeja de la app o en las notificaciones del dispositivo.",
+    "ru": "Новые заявки, ответы организатора и подтверждения встреч теперь видны в приложении и в уведомлениях устройства."
   }
 }
