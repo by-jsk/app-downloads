@@ -17,11 +17,12 @@
 <!-- [20261124 by jsk] 세탁물 오염도와 이염 확인을 포함한 세탁방 쉐어 v0.1.1을 안내함. -->
 <!-- [20261124 by jsk] 모집자와 참여자 양쪽이 동의한 뒤 확정하는 v0.1.2를 안내함. -->
 <!-- [20261125 by jsk] 신청·모집자 응답·확정 알림을 추가한 세탁방 쉐어 v0.1.3을 안내함. -->
+<!-- [20261125 by jsk] 장보기 반띵을 추가한 같은 앱 패키지의 동네 쉐어 v0.2.0을 안내함. -->
 | 앱 | 버전 | 설치 파일 |
 | --- | --- | --- |
 | 메시에 별애별곡 · Conquer Messier | v1.5 | [APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/messier-sky-v1.5/MessierSky-v1.5.apk) |
 | 피포코 · 피크샷 | v0.4.1 (테스트) | [APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/pipoco-v0.4.1/Pipoco-v0.4.1.apk) |
-| 세탁방 쉐어 · Laundry Share | v0.1.3 (체험판) | [APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/laundry-share-v0.1.3/LaundryShare-v0.1.3.apk) |
+| 동네 쉐어 · Neighborhood Share (세탁방·장보기) | v0.2.0 (체험판) | [APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/laundry-share-v0.2.0/LaundryShare-v0.2.0.apk) |
 | 리더올 · 문서 낭독 | v0.1.4 (테스트) | [APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/reader-all-v0.1.4/reader_all-v0.1.4.apk) |
 
 리더올 v0.1.2 이하의 테스트 설치본은 서명이 달라 새 버전으로 바로 업데이트할 수 없습니다. 기존 앱을 삭제하면 낭독 위치와 앱 설정이 지워집니다. v0.1.3 이상을 사용 중이면 기존 앱을 삭제하지 않고 앱 안에서 업데이트할 수 있습니다.
