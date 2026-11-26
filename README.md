@@ -18,9 +18,10 @@
 <!-- [20261124 by jsk] 모집자와 참여자 양쪽이 동의한 뒤 확정하는 v0.1.2를 안내함. -->
 <!-- [20261125 by jsk] 신청·모집자 응답·확정 알림을 추가한 세탁방 쉐어 v0.1.3을 안내함. -->
 <!-- [20261125 by jsk] 장보기 반띵을 추가한 같은 앱 패키지의 동네 쉐어 v0.2.0을 안내함. -->
+<!-- [20261126 by jsk] 전체 하늘지도와 13.5등급 오프라인 성도를 포함한 메시에 v1.6 다운로드로 연결함. -->
 | 앱 | 버전 | 설치 파일 |
 | --- | --- | --- |
-| 메시에 별애별곡 · Conquer Messier | v1.5 | [APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/messier-sky-v1.5/MessierSky-v1.5.apk) |
+| 메시에 별애별곡 · Conquer Messier | v1.6 | [APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/messier-sky-v1.6/MessierSky-v1.6.apk) |
 | 별하늘 · Stellar Touch | v0.1.0 (시험판) | [ARM64 APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/stellar-touch-v0.1.0/StellarTouch-v0.1.0.apk) |
 | 피포코 · 피크샷 | v0.4.1 (테스트) | [APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/pipoco-v0.4.1/Pipoco-v0.4.1.apk) |
 | 동네 쉐어 · Neighborhood Share (세탁방·장보기) | v0.2.0 (체험판) | [APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/laundry-share-v0.2.0/LaundryShare-v0.2.0.apk) |
