@@ -22,13 +22,13 @@
 | 앱 | 버전 | 설치 파일 |
 | --- | --- | --- |
 | 메시에 별애별곡 · Conquer Messier | v1.6 | [APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/messier-sky-v1.6/MessierSky-v1.6.apk) |
-| 별하늘 · Stellar Touch | v0.1.0 (시험판) | [ARM64 APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/stellar-touch-v0.1.0/StellarTouch-v0.1.0.apk) |
+| 별하늘 · Stellar Touch | v0.1.1 (시험판) | [ARM64 APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/stellar-touch-v0.1.1/StellarTouch-v0.1.1.apk) |
 | 피포코 · 피크샷 | v0.4.1 (테스트) | [APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/pipoco-v0.4.1/Pipoco-v0.4.1.apk) |
 | 동네 쉐어 · Neighborhood Share (세탁방·장보기) | v0.2.0 (체험판) | [APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/laundry-share-v0.2.0/LaundryShare-v0.2.0.apk) |
 | 리더올 · 문서 낭독 | v0.1.4 (테스트) | [APK 다운로드](https://github.com/by-jsk/app-downloads/releases/download/reader-all-v0.1.4/reader_all-v0.1.4.apk) |
 
 리더올 v0.1.2 이하의 테스트 설치본은 서명이 달라 새 버전으로 바로 업데이트할 수 없습니다. 기존 앱을 삭제하면 낭독 위치와 앱 설정이 지워집니다. v0.1.3 이상을 사용 중이면 기존 앱을 삭제하지 않고 앱 안에서 업데이트할 수 있습니다.
 
-별하늘은 Stellarium PC 엔진을 사용하는 독립 Android 이식 시험판입니다. 한글·6개 언어, 적색 야간 화면과 밝기, 터치 검색·시간·위치를 제공합니다. ARM64/Android 9 이상용 약 535 MiB이며, Galaxy S25 실기기 성능은 별도 확인이 필요합니다. [대응 소스·라이선스·시험 보고서](https://github.com/by-jsk/app-downloads/releases/tag/stellar-touch-v0.1.0) · [공개 개발 저장소](https://github.com/by-jsk/stellarium-android).
+별하늘은 Stellarium PC 엔진을 사용하는 독립 Android 이식 시험판입니다. 한글·6개 언어, 적색 야간 화면과 밝기, 터치 검색·시간·위치를 제공합니다. ARM64/Android 9 이상용 약 535 MiB이며, Galaxy S25 실기기 성능은 별도 확인이 필요합니다. v0.1.0에서 업데이트 메뉴를 열 때 앱이 닫히면 위 APK를 기존 앱 위에 설치하세요. [대응 소스·라이선스·시험 보고서](https://github.com/by-jsk/app-downloads/releases/tag/stellar-touch-v0.1.1) · [공개 개발 저장소](https://github.com/by-jsk/stellarium-android).
 
 [전체 릴리스](https://github.com/by-jsk/app-downloads/releases)에서 앱별 버전을 확인할 수 있습니다.
